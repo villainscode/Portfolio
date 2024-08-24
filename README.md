@@ -1,8 +1,6 @@
-# Portfolio
+# Portfolio Sample
 Sample Developer Portfolio for Job Seekers and Career Changers
 
-# 포트폴리오
-<hr>
 
 ## 프로젝트 목표
 
@@ -22,20 +20,20 @@ Sample Developer Portfolio for Job Seekers and Career Changers
 <img src="./image/notification.png" width="1200">
 
 ## 개발 스택
+> JDK 1.8
+> 
+> SpringBoot 3.x 
+> 
+> Elasticsearch 8.x 
+> 
+> Kafka 3.x 
+> 
+> Redis 7.x 
+> 
+> RabbitMQ 3.10.x
+> 
+> MongoDB 6.x 
 
-JDK 1.8
-
-SpringBoot 3.x
-
-Elasticsearch 8.x
-
-Kafka 3.x
-
-Redis 7.x
-
-RabbitMQ 3.10.x
-
-MongoDB 6.x
 
 ## 핵심 기술
 >
